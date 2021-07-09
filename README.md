@@ -2,3 +2,4 @@
 * Day 1 : Revised Neural Net concepts from CodeBasics 
 * Day 2 : Implemented Handwritten Digits Classification using Tensorflow
 * Day 3 : Revised Activation functions and partial dervatives concepts
+* Day 4 : Went through Cost function concepts
