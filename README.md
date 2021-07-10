@@ -3,3 +3,4 @@
 * Day 2 : Implemented Handwritten Digits Classification using Tensorflow
 * Day 3 : Revised Activation functions and partial dervatives concepts
 * Day 4 : Went through Cost function concepts
+* Day 5 : Went through Gradient Descent concepts for Neural Network
