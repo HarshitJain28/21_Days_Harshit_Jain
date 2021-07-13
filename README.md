@@ -6,3 +6,4 @@
 * Day 5 : Went through Gradient Descent concepts for Neural Network
 * Day 6 : Studied about different types of gradients 
 * Day 7 : Revised Chain rule concept for partial derivatives
+* Day 8 : Read about Tensorboard 
