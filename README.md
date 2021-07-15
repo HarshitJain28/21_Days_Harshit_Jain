@@ -8,3 +8,5 @@
 * Day 7 : Revised Chain rule concept for partial derivatives
 * Day 8 : Read about Tensorboard 
 * Day 9 : Ran CPU Vs GPU Benchmark on fashion dataset using ANN
+* Day 10 : Implemented Customer Churn Prediction Using ANN
+
