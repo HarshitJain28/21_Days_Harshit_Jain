@@ -10,4 +10,5 @@
 * Day 9 : Ran CPU Vs GPU Benchmark on fashion dataset using ANN
 * Day 10 : Implemented Customer Churn Prediction Using ANN
 * Day 11 : Implemented ANN on Bank Churn Prediction
+* Day 12 : Read about Dropout Regularization
 
