@@ -13,4 +13,3 @@
 * Day 12 : Read about Dropout Regularization
 * Day 13 : Read about Handling Imbalanced datasets
 * Day 14 : Implemented Handling imbalanced datasets methods on Bank Churn Prediction
-
