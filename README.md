@@ -15,3 +15,4 @@
 * Day 14 : Implemented Handling imbalanced datasets methods on Bank Churn Prediction
 * Day 15 : Read about CNN 
 * Day 16 : Implemented Handwritten Digits Classification using CNN
+* Day 17 : Implemented CNN on CIFAR10 Dataset
