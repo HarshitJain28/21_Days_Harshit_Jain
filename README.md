@@ -16,3 +16,4 @@
 * Day 15 : Read about CNN 
 * Day 16 : Implemented Handwritten Digits Classification using CNN
 * Day 17 : Implemented CNN on CIFAR10 Dataset
+* Day 18 : Read about Padding and Stride
