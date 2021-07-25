@@ -18,3 +18,4 @@
 * Day 17 : Implemented CNN on CIFAR10 Dataset
 * Day 18 : Read about Padding and Stride
 * Day 19 : Read about Data Augmentation
+* Day 20 : Implemented Flower Classification using Data Augmentation and CNN
