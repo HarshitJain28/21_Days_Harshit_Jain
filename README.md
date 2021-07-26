@@ -19,3 +19,4 @@
 * Day 18 : Read about Padding and Stride
 * Day 19 : Read about Data Augmentation
 * Day 20 : Implemented Flower Classification using Data Augmentation and CNN
+* Day 21 : Read about Transfer Learning
