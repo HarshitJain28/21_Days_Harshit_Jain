@@ -113,10 +113,15 @@
         <div class="row">
             <div class="col-md-4"></div>
             <div class="col-md-4 text-center">
-         {% if img_obj %}
-            <h3>You Look Like : {{ result }}</h3>
-            <img src="{{ img_obj.image.url}}" alt="connect" style="max-height:300px">
+            
+            
+            {% if status == 'Match' %}
+                <h3 class="alert alert-success">{{ result }}</h3>
+                <img src="{{ img_obj.image.url}}" alt="connect" style="max-height:300px">
+            {% else %}
+             <h3 class="alert alert-danger">{{ result }}</h3>
             {% endif %}
+         
     </div>
         <div class="col-md-4"></div>
     </div>
